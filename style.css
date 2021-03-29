@@ -1,0 +1,18 @@
+.react{
+  width: 500px;
+  border-radius: 7px;
+  border: solid 3px #000000;
+  margin-bottom: 10px;
+  padding: 0 10px 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.react button{
+  width: 100px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 2px #000000;
+}
